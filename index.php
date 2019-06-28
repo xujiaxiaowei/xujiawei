@@ -5,3 +5,6 @@
   echo "1"//bug
   echo "1"//bug
   echo "4"//bug_test
+  echo "5" //master
+  echo "6" //master
+
